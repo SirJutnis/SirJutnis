@@ -21,5 +21,4 @@
 
 ```bash
 r6_scraper_auto.py        # Main script to scrape and update all player tables
-requirements.txt          # All Python dependencies
 README.md                 # You are here
